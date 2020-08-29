@@ -6,3 +6,5 @@ C:\Users\santo\Desktop\Bibliotecas C#\SqlServer\SqlServer\obj\Debug\SqlServer.pd
 D:\GITHUB\Biblioteca_Csharp_com_SQL\SqlServer\SqlServer\obj\Debug\SqlServer.csprojResolveAssemblyReference.cache
 D:\GITHUB\Biblioteca_Csharp_com_SQL\SqlServer\SqlServer\obj\Debug\SqlServer.dll
 D:\GITHUB\Biblioteca_Csharp_com_SQL\SqlServer\SqlServer\obj\Debug\SqlServer.pdb
+D:\GITHUB\Biblioteca_Csharp_com_SQL\SqlServer\SqlServer\bin\Debug\SqlServer.dll
+D:\GITHUB\Biblioteca_Csharp_com_SQL\SqlServer\SqlServer\bin\Debug\SqlServer.pdb
